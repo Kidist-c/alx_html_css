@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/headphones_hero_1.jpg)
+}
+#navigation{
+    margin-left: 80%;
+
+    
+
+}
+h1{
+    text-align:center;
+    color:white;
+}
+h5{
+    text-align: center;
+    color:white;
+}
+#navigation a:hover{
+    color:red;
+}
+#navigation a{
+    color:white;
+}
+
+#call{
+    background-color:red;
+    margin-left:50%;
+    padding:10px;
+    border-radius:10px;
+    border-color:red;
+    color:white;
+}
+.main p{
+    text-align:center;
+    color:white;
+}
